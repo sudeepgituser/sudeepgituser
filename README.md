@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Sudeep S.R!<br>🎓 Final-year B.E. Computer Science student at Sri Siddhartha Institute of Technology, Tumkuru<br>💼 3x Remote Intern — Frontend, Web & Full Stack Development<br>🐍 I love building things with Python, Flask, and FastAPI<br>⚛️ Frontend skills in JavaScript & React, backend skills in REST APIs & SQL<br>⛓️ Currently building an Intelligent Crowdfunding System powered by Ethereum Blockchain + ML Fraud Detection (Isolation Forest)<br>🧩 Solved 200+ DSA problems on LeetCode & HackerRank<br>🚀 Looking for an SDE internship to build scalable backend systems and real-world web apps<br>📫 Reach me at sudeepsrskp@gmail.com<br><br>
+👋 Hey, I'm Sudeep S.R!<br>🎓 Final-year B.E. Computer Science student at Sri Siddhartha Institute of Technology, Tumkuru<br>💼 3x Remote Intern — Frontend, Web & Full Stack Development<br>🐍 I love building things with Python, Flask, and FastAPI<br>⚛️ Frontend skills in JavaScript & React, backend skills in REST APIs & SQL<br>⛓️ Currently building an Intelligent Crowdfunding System powered by Ethereum Blockchain + ML Fraud Detection (Isolation Forest)<br><br>🚀 Looking for an SDE internship to build scalable backend systems and real-world web apps<br>📫 Reach me at sudeepsrskp@gmail.com<br><br>
 
 
 ## 🌐 Socials:
