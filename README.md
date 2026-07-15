@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Sudeep S.R! 👋</h1>
 🎓 Final-year B.E. Computer Science student at Sri Siddhartha Institute of Technology, Tumkuru<br>
-💼 3x Remote Intern — Frontend, Web & Full Stack Development
-🐍 I love building things with Python, Flask, and FastAPI
-⚛️ Frontend skills in JavaScript & React, backend skills in REST APIs & SQL
-⛓️ Currently building an Intelligent Crowdfunding System powered by Ethereum Blockchain + ML Fraud Detection (Isolation Forest)
-🤖 Also building an AI-first CRM powered by LangGraph agents & Groq LLMs
-🚀 Looking for an SDE internship to build scalable backend systems and real-world web apps
-📫 Reach me at sudeepsrskp@gmail.com
+💼 3x Remote Intern — Frontend, Web & Full Stack Development<br>
+🐍 I love building things with Python, Flask, and FastAPI<br>
+⚛️ Frontend skills in JavaScript & React, backend skills in REST APIs & SQL<br>
+⛓️ Currently building an Intelligent Crowdfunding System powered by Ethereum Blockchain + ML Fraud Detection (Isolation Forest)<br>
+🤖 Also building an AI-first CRM powered by LangGraph agents & Groq LLMs<br>
+🚀 Looking for an SDE internship to build scalable backend systems and real-world web apps<br>
+📫 Reach me at sudeepsrskp@gmail.com<br>
 <p align="center">
   <a href="mailto:sudeepsrskp@gmail.com"><img src="https://img.shields.io/badge/Email-sudeepsrskp%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sudeep-s-r-a912aa289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
