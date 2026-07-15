@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sudeep S.R! 👋</h1>
-🎓 Final-year B.E. Computer Science student at Sri Siddhartha Institute of Technology, Tumkuru
+🎓 Final-year B.E. Computer Science student at Sri Siddhartha Institute of Technology, Tumkuru<br>
 💼 3x Remote Intern — Frontend, Web & Full Stack Development
 🐍 I love building things with Python, Flask, and FastAPI
 ⚛️ Frontend skills in JavaScript & React, backend skills in REST APIs & SQL
