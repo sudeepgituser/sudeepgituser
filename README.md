@@ -1,18 +1,11 @@
 <h1 align="center">Hey, I'm Sudeep S.R! 👋</h1>
 🎓 Final-year B.E. Computer Science student at Sri Siddhartha Institute of Technology, Tumkuru
-
 💼 3x Remote Intern — Frontend, Web & Full Stack Development
-
 🐍 I love building things with Python, Flask, and FastAPI
-
 ⚛️ Frontend skills in JavaScript & React, backend skills in REST APIs & SQL
-
 ⛓️ Currently building an Intelligent Crowdfunding System powered by Ethereum Blockchain + ML Fraud Detection (Isolation Forest)
-
 🤖 Also building an AI-first CRM powered by LangGraph agents & Groq LLMs
-
 🚀 Looking for an SDE internship to build scalable backend systems and real-world web apps
-
 📫 Reach me at sudeepsrskp@gmail.com
 <p align="center">
   <a href="mailto:sudeepsrskp@gmail.com"><img src="https://img.shields.io/badge/Email-sudeepsrskp%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -54,10 +47,9 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeepgituser&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepgituser" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudeepgituser&show_icons=true&theme=default" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=sudeepgituser" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepgituser&layout=compact" height="165" />
